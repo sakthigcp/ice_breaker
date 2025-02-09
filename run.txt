@@ -1,0 +1,2 @@
+# To enable the virtual environment run the below command - This is activate the ice_breaker virtual environment
+pipenv shell

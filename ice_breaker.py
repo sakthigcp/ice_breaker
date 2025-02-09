@@ -20,7 +20,7 @@ if __name__ == "__main__":
     print(os.environ["OPENAI_API_KEY"])
     # This is in github - check there in the github page
 
-    summary_template = """given the information {information} about a person from I want you to create:
+    summary_template = """Given the information {information} about a person from I want you to create:
     1. a short summary
     2. two interesting facts about them"""
 
